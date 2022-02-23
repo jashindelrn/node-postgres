@@ -9,6 +9,20 @@
   },
   "dependencies": {
   },
+  "files": [
+    "./pg/*",
+    "./pg-connection-string",
+    "./pg-cursor/*",
+    "./pg-pool/*",
+    "./pg-protocol/*"
+  ],
+  "directories": [
+    "./pg",
+    "./pg-connection-string",
+    "./pg-cursor",
+    "./pg-pool",
+    "./pg-protocol"
+  ],
   "author": "",
   "license": "ISC"
 }
